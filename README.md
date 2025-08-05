@@ -21,7 +21,10 @@ This repository demonstrates PostgreSQL CRUD operations and join types using sam
 ---
 
 ## CRUD Operations
+Result:
 
+id	name	class_id
+2	Amina	102
 ### 📝 Create (INSERT)
 ```sql
 -- Add new student
